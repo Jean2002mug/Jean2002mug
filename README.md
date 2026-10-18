@@ -1,9 +1,9 @@
-- 🌟 Turning Complex Problems into Elegant Solutions
-- 📝 Crafting Code That's a Joy to Read and Maintain
-- 🧩 Thriving on Algorithm Optimization and Debugging
-- 🌱 Embracing Challenges as Opportunities to Learn and Grow
+- Turning Complex Problems into Elegant Solutions
+- Crafting Code That's a Joy to Read and Maintain
+- Thriving on Algorithm Optimization and Debugging
+- Embracing Challenges as Opportunities to Learn and Grow
 
 
-- Thanks for checking out..
+- Thanks for "git checking" out me ..
 - contact me: michelmugabe09@gmail.com
 
